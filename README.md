@@ -48,7 +48,7 @@ I took on a **7-day portfolio challenge** to design, develop, and deploy a perso
 The challenge was a great success! I now have a fully functional portfolio that reflects my skills and experience. This challenge also helped me improve my time management and web development skills.
 
 ## Demo
-![Home-page](\Disign\home-page.png)
+![Home-page](.\Disign\home-page.png)
 
 ![About-me page](\Disign\about-me.png)
 
